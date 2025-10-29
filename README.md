@@ -1,38 +1,38 @@
-## Thyago de Sousa Gonçalves
-<pre><code>
-root@root:~$ nano default.sh  
+## Olá, me chamo Thyago.
+#### 👩‍ 💻 Sou desenvolvedor de software focado em criar aplicações web seguras, escaláveis e que proporcionem uma excelente experiência ao usuário.
 
-@echo off
-set user= thygas
-set name= Thyago de Sousa Gonçalves
-set area= Cybersecurity
-set tags= Coffee, Music, Blue Team, Hacker, Protection.
+### Atualmente, estudo:
 
-echo user: %user%
-echo name: %nome%
-echo area: %area%
-echo tags: %tags%
+- **Front-end**:
 
-pause
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular)](https://skillicons.dev)
 
-root@root:~$ chmod +x default.sh  
-root@root:~$ ./default.sh  
-</code></pre>
+- **Back-end**:
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+
+- **Banco de Dados**:
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
+
+- **Outras Tecnologias**:
+
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,git,github,docker)](https://skillicons.dev)
 
 
-root@root:~$ cat tools.txt
+<br>
+<div align="center">
+  <a href="https://github.com/thyago-sousa">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thyago-sousa&show_icons=true&theme=tokyonight"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyago-sousa&layout=compact&theme=tokyonight"/>
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-005571?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white) 
-
-root@root:~$ cat tryhack.png
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/thygas.png" alt="Your Image Badge" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href = "mailto:thyago.gonc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thygasousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thyago-sousa/thyago-sousa/output/github-contribution-grid-snake-dark.svg">
