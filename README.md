@@ -1,5 +1,5 @@
 ## Olá, me chamo Thyago.
-#### 👩‍ 💻 Sou desenvolvedor de software focado em criar aplicações web seguras, escaláveis e que proporcionem uma excelente experiência ao usuário.
+#### ☕🎈 Sou desenvolvedor de software focado em criar aplicações web seguras, escaláveis e que proporcionem uma excelente experiência ao usuário.
 
 ### Atualmente, estudo:
 
