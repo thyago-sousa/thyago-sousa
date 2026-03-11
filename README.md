@@ -6,11 +6,11 @@
 thyago
 
 ┌──(thyago㉿github)-[~]
-└─$ role
+└─$ cat role.txt
 Cybersecurity Student
 
 ┌──(thyago㉿github)-[~]
-└─$ interests
+└─$ cat interests.txt
 Coffee | Security | Hacking | Protection
 ```
 
@@ -60,8 +60,6 @@ Coffee | Security | Hacking | Protection
 ---
 
 ## GitHub Stats
-
-<p align="center">
 
 <p align="center">
 
