@@ -23,7 +23,7 @@ Coffee | Security | Hacking | Protection
 <img src="icons/Gnubash.svg" width="60"/>
 <img src="icons/Javascript.svg" width="60"/>
 <img src="icons/Kalilinux.svg" width="60"/>
-<img src="icons/Linux.svg" width="60"/>
+<img src="icons/Linux.svg" width="53"/>
 <img src="icons/Metasploit.svg" width="60"/>
 <img src="icons/Mysql.svg" width="60"/>
 <img src="icons/Owasp.svg" width="60"/>
