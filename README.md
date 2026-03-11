@@ -1,42 +1,88 @@
-## Olá, me chamo Thyago.
-#### ☕🎈 Sou desenvolvedor de software focado em criar aplicações web seguras, escaláveis e que proporcionem uma excelente experiência ao usuário.
+# Thyago de Sousa
 
-### Atualmente, estudo:
+```bash
+root@root:~$ whoami
+Thyago
 
-- **Front-end**:
+root@root:~$ role
+Cybersecurity Student
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular)](https://skillicons.dev)
+root@root:~$ interests
+Coffee | Security | Hacking | Protection
+```
 
-- **Back-end**:
+---
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+## Tools
 
-- **Banco de Dados**:
+<p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
+<img src="icons/linux.svg" width="60"/>
+<img src="icons/python.svg" width="60"/>
+<img src="icons/kali.svg" width="60"/>
+<img src="icons/nmap.svg" width="60"/>
+<img src="icons/wireshark.svg" width="60"/>
 
-- **Outras Tecnologias**:
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,git,github,docker)](https://skillicons.dev)
+<p align="center">
 
+<img src="icons/owaspzap.svg" width="60"/>
+<img src="icons/burpsuite.svg" width="60"/>
+<img src="icons/metasploit.svg" width="60"/>
+<img src="icons/git.svg" width="60"/>
+<img src="icons/docker.svg" width="60"/>
 
-<br>
-<div align="center">
-  <a href="https://github.com/thyago-sousa">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thyago-sousa&show_icons=true&theme=tokyonight"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyago-sousa&layout=compact&theme=tokyonight"/>
+</p>
 
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href = "mailto:thyago.gonc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thygasousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/thyago-sousa/thyago-sousa@output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/thyago-sousa/thyago-sousa@output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/thyago-sousa/thyago-sousa@output/github-contribution-grid-snake.svg">
-</picture>
+## Currently Learning
 
+```bash
+root@root:~$ learning
+- Linux Administration
+- Network Security
+- Python for Security
+- Basic Digital Forensics
+- SIEM & Log Analysis
+```
+
+---
+
+## TryHackMe
+
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/thygassec.png" alt="Your Image Badge" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=thyago-sousa&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyago-sousa&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thyago-sousa&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## Terminal
+
+```bash
+root@root:~$ echo "Stay curious. Stay secure."
+Stay curious. Stay secure.
+```
