@@ -17,21 +17,18 @@ Coffee | Security | Hacking | Protection
 
 <p align="center">
 
-<img src="icons/linux.svg" width="60"/>
-<img src="icons/python.svg" width="60"/>
-<img src="icons/kali.svg" width="60"/>
-<img src="icons/nmap.svg" width="60"/>
-<img src="icons/wireshark.svg" width="60"/>
-
-</p>
-
-<p align="center">
-
-<img src="icons/owaspzap.svg" width="60"/>
-<img src="icons/burpsuite.svg" width="60"/>
-<img src="icons/metasploit.svg" width="60"/>
-<img src="icons/git.svg" width="60"/>
-<img src="icons/docker.svg" width="60"/>
+<img src="icons/Burpsuite.svg" width="60"/>
+<img src="icons/Docker.svg" width="60"/>
+<img src="icons/Git.svg" width="60"/>
+<img src="icons/Gnubash.svg" width="60"/>
+<img src="icons/Javascript.svg" width="60"/>
+<img src="icons/Kalilinux.svg" width="60"/>
+<img src="icons/Linux.svg" width="60"/>
+<img src="icons/Metasploit.svg" width="60"/>
+<img src="icons/Mysql.svg" width="60"/>
+<img src="icons/Owasp.svg" width="60"/>
+<img src="icons/Python.svg" width="60"/>
+<img src="icons/Wireshark.svg" width="60"/>
 
 </p>
 
