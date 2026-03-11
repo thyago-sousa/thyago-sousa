@@ -1,6 +1,6 @@
 # Thyago de Sousa
 
-```bash
+<pre style="background:black;color:white;padding:15px;border-radius:8px">
 root@root:~$ whoami
 Thyago
 
@@ -9,7 +9,7 @@ Cybersecurity Student
 
 root@root:~$ interests
 Coffee | Security | Hacking | Protection
-```
+</pre>
 
 ---
 
@@ -36,14 +36,14 @@ Coffee | Security | Hacking | Protection
 
 ## Currently Learning
 
-```bash
+<pre style="background:black;color:white;padding:15px;border-radius:8px">
 root@root:~$ learning
 - Linux Administration
 - Network Security
 - Python for Security
 - Basic Digital Forensics
 - SIEM & Log Analysis
-```
+</pre>
 
 ---
 
@@ -59,10 +59,13 @@ root@root:~$ learning
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thyago-sousa&show_icons=true&theme=tokyonight"/>
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyago-sousa&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thyago-sousa&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyago-sousa&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=000000"/>
+
+</p>
 </p>
 
 ---
@@ -71,7 +74,7 @@ root@root:~$ learning
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thyago-sousa&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thyago-sousa&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 
 </p>
 
@@ -79,7 +82,7 @@ root@root:~$ learning
 
 ## Terminal
 
-```bash
+<pre style="background:black;color:white;padding:15px;border-radius:8px">
 root@root:~$ echo "Stay curious. Stay secure."
 Stay curious. Stay secure.
-```
+</pre>
