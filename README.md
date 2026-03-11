@@ -1,15 +1,18 @@
 # Thyago de Sousa
 
-<pre style="background:black;color:white;padding:15px;border-radius:8px">
-root@root:~$ whoami
-Thyago
+```bash
+┌──(thyago㉿github)-[~]
+└─$ whoami
+thyago
 
-root@root:~$ role
+┌──(thyago㉿github)-[~]
+└─$ role
 Cybersecurity Student
 
-root@root:~$ interests
+┌──(thyago㉿github)-[~]
+└─$ interests
 Coffee | Security | Hacking | Protection
-</pre>
+```
 
 ---
 
@@ -36,14 +39,15 @@ Coffee | Security | Hacking | Protection
 
 ## Currently Learning
 
-<pre style="background:black;color:white;padding:15px;border-radius:8px">
-root@root:~$ learning
+```bash
+┌──(thyago㉿github)-[~]
+└─$ cat learning.txt
 - Linux Administration
 - Network Security
 - Python for Security
 - Basic Digital Forensics
 - SIEM & Log Analysis
-</pre>
+```
 
 ---
 
@@ -82,7 +86,8 @@ root@root:~$ learning
 
 ## Terminal
 
-<pre style="background:black;color:white;padding:15px;border-radius:8px">
-root@root:~$ echo "Stay curious. Stay secure."
+```bash
+┌──(thyago㉿github)-[~]
+└─$ echo "Stay curious. Stay secure."
 Stay curious. Stay secure.
-</pre>
+```
