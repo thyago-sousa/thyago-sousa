@@ -23,17 +23,38 @@ Coffee | Security | Hacking | Protection
 <img src="icons/Burpsuite.svg#gh-dark-mode-only" width="60"/>
 <img src="icons/Burpsuite2.svg#gh-light-mode-only" width="60"/>
 
-<img src="icons/Docker.svg" width="60"/>
-<img src="icons/Git.svg" width="60"/>
-<img src="icons/Gnubash.svg" width="60"/>
-<img src="icons/Javascript.svg" width="60"/>
-<img src="icons/Kalilinux.svg" width="60"/>
-<img src="icons/Linux.svg" width="53"/>
-<img src="icons/Metasploit.svg" width="60"/>
-<img src="icons/Mysql.svg" width="60"/>
-<img src="icons/Owasp.svg" width="60"/>
-<img src="icons/Python.svg" width="60"/>
-<img src="icons/Wireshark.svg" width="60"/>
+<img src="icons/Docker.svg#gh-dark-mode-only" width="60"/>
+<img src="icons/Docker2.svg#gh-light-mode-only" width="60"/>
+
+<img src="icons/Git.svg#gh-dark-mode-only" width="60"/>
+<img src="icons/Git2.svg#gh-light-mode-only" width="60"/>
+
+<img src="icons/Gnubash.svg#gh-dark-mode-only" width="60"/>
+<img src="icons/Gnubash2.svg#gh-light-mode-only" width="60"/>
+
+<img src="icons/Javascript.svg#gh-dark-mode-only" width="60"/>
+<img src="icons/Javascript2.svg#gh-light-mode-only" width="60"/>
+
+<img src="icons/Kalilinux.svg#gh-dark-mode-only" width="60"/>
+<img src="icons/Kalilinux2.svg#gh-light-mode-only" width="60"/>
+
+<img src="icons/Linux.svg#gh-dark-mode-only" width="53"/>
+<img src="icons/Linux2.svg#gh-light-mode-only" width="53"/>
+
+<img src="icons/Metasploit.svg#gh-dark-mode-only" width="60"/>
+<img src="icons/Metasploit2.svg#gh-light-mode-only" width="60"/>
+
+<img src="icons/Mysql.svg#gh-dark-mode-only" width="60"/>
+<img src="icons/Mysql2.svg#gh-light-mode-only" width="60"/>
+
+<img src="icons/Owasp.svg#gh-dark-mode-only" width="60"/>
+<img src="icons/Owasp2.svg#gh-light-mode-only" width="60"/>
+
+<img src="icons/Python.svg#gh-dark-mode-only" width="60"/>
+<img src="icons/Python2.svg#gh-light-mode-only" width="60"/>
+
+<img src="icons/Wireshark.svg#gh-dark-mode-only" width="60"/>
+<img src="icons/Wireshark2.svg#gh-light-mode-only" width="60"/>
 
 </p>
 
