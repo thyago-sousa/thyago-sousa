@@ -20,7 +20,9 @@ Coffee | Security | Hacking | Protection
 
 <p align="center">
 
-<img src="icons/Burpsuite.svg" width="60"/>
+<img src="icons/Burpsuite.svg#gh-dark-mode-only" width="60"/>
+<img src="icons/Burpsuite2.svg#gh-light-mode-only" width="60"/>
+
 <img src="icons/Docker.svg" width="60"/>
 <img src="icons/Git.svg" width="60"/>
 <img src="icons/Gnubash.svg" width="60"/>
