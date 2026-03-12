@@ -39,7 +39,7 @@ Coffee | Security | Hacking | Protection
 <img src="icons/Kalilinux2.svg#gh-light-mode-only" width="60"/>
 
 <img src="icons/Linux.svg#gh-dark-mode-only" width="53"/>
-<img src="icons/Linux2.svg#gh-light-mode-only" width="53"/>
+<img src="icons/Linux2.svg#gh-light-mode-only" width="60"/>
 
 <img src="icons/Metasploit.svg#gh-dark-mode-only" width="60"/>
 <img src="icons/Metasploit2.svg#gh-light-mode-only" width="60"/>
